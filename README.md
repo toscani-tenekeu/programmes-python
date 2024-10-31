@@ -1,7 +1,3 @@
-Voici un exemple de fichier README pour votre projet GitHub :
-
----
-
 # Traceur de Courbe et Calcul de Dérivée
 
 Ce projet est une application graphique en Python permettant de tracer une fonction mathématique et sa dérivée. En utilisant une interface intuitive, l'utilisateur peut entrer une fonction, visualiser son graphique et afficher sa dérivée. Ce projet est idéal pour l'exploration des fonctions et de leurs dérivées dans le cadre des mathématiques appliquées.
