@@ -42,18 +42,9 @@ Ce projet est une application graphique en Python permettant de tracer une fonct
 
 ## Exemples de Fonctions
 
-- \( f(x) = x^3 \cdot e^{-x} \cdot \sin(x) \)
-- \( f(x) = \ln(x) \cdot e^{x} \)
-- \( f(x) = x^2 \cdot \cos(x) \)
+- f(x) = x^3 + 4x - 4
+- f(x) = ln(2x^3 - exp(4x + 5)) 
 
 ## Auteurs
 
-Ce projet a été développé par **Toscani Tenekeu**.
-
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
----
-
-Vous pouvez adapter le contenu en fonction des spécificités de votre projet et des autres détails que vous souhaitez inclure.
+Ce projet a été développé par **Toscani Tenekeu**
